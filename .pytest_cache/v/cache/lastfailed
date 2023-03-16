@@ -1,0 +1,13 @@
+{
+  "tests/login_test.py": true,
+  "tests/test_landingpage.py::TestData": true,
+  "tests/test_landingpage.py::TestLandingPage": true,
+  "tests/test_login.py::TestData": true,
+  "tests/test_login.py::TestLogin": true,
+  "tests/test_login.py::TestLogin::test_login_failure[firefox]": true,
+  "tests/tc01_landing_page_test.py::TestLogin::test_login_success[chromium]": true,
+  "tests/tc01_landing_page_test.py": true,
+  "tests/test_tc02_add_remove_question.py": true,
+  "tests/test_tc02_add_remove_question.py::Test_Add_Remove_Questions::test_remove_questions[chromium]": true,
+  "tests/test_tc02_add_remove_question.py::Test_Add_Remove_Questions::test_add_question": true
+}
