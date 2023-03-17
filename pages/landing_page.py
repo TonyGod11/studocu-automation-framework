@@ -1,6 +1,6 @@
 from playwright.sync_api import Page, expect
 import logging
-import pages.application_constants as constants
+import pages.base_page as constants
 from pages.utils import create_question_and_answer
 
 
