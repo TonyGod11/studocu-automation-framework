@@ -90,16 +90,19 @@ plugins.
 
 ## Demo
 
-test execution demo: all the tests are executed sequentially and test report is generated.
+- test execution demo: all the tests are executed sequentially and test report is generated.
 
 ![](studocu_assessment.gif)
 
-parallel test execution demo: the tests are executed in parallel and test report is generated.
+- parallel test execution demo: the tests are executed in parallel and test report is generated.
 
 ![](studocu_assessment_01.gif)
 
+- sample test report
 
-##Test Cases
+![](sample_test_report.jpg)
+
+## Test Cases
 
 - `test_tc01_landing_page` - test case to verify that all the elements are present in the landing page.
 - `test_tc02_add_question` - test case to add a question and verify that the question is added.
